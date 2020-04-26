@@ -1,0 +1,45 @@
+body {
+  margin: 1rem;
+  background-color: aqua;
+}
+
+p {
+  color #7d7d7d;
+  font-size: 18px;
+}
+
+/*for the header*/
+
+div.trans-black{
+  background-color:rgba(0, 0, 0, 0.2);
+}
+
+div.trans-black ul{
+  padding: 2.5rem;
+}
+
+div.trans-black li {
+  font-size: 2rem;
+}
+
+/*for the body main div "content class"*/
+
+div.content {
+  padding: 2.5rem;
+}
+
+span#red {
+  color: #ff675c;
+}
+
+div.post {
+  background-color: #a0000000;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+/*for the footer*/
+footer {
+  text-align: center;
+  margin-top:2em;
+}
